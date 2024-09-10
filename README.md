@@ -9,18 +9,18 @@ NumPy — библиотека для работы с многомерными �
 
 ## Установка и запуск проекта
 # Шаг 1: Клонирование репозитория
- ` git clone https://github.com/RuslanShamsulov/Motion-Detector.git ` 
- ` cd motion-detection `
+ ``` git clone https://github.com/RuslanShamsulov/Motion-Detector.git 
+     cd motion-detection ```
 # Шаг 2: Создание виртуального окружения
 Рекомендуется создать виртуальное окружение, чтобы изолировать зависимости проекта:
 
 На Windows:
-` python -m venv venv `
-` .\venv\Scripts\activate `
+``` python -m venv venv 
+   .\venv\Scripts\activate ```
 
 На macOS/Linux:
-` python3 -m venv venv `
-` source venv/bin/activate `
+``` python3 -m venv venv 
+    source venv/bin/activate ```
 
 # Шаг 3: Установка зависимостей
 Установите необходимые библиотеки, указанные в файле requirements.txt:
