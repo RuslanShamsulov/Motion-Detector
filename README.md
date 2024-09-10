@@ -9,26 +9,26 @@ NumPy — библиотека для работы с многомерными �
 
 ## Установка и запуск проекта
 # Шаг 1: Клонирование репозитория
- ' git clone https://github.com/RuslanShamsulov/motion-detection.git '
- ' cd motion-detection '
+ ` git clone https://github.com/RuslanShamsulov/Motion-Detector.git ` 
+ ` cd motion-detection `
 # Шаг 2: Создание виртуального окружения
 Рекомендуется создать виртуальное окружение, чтобы изолировать зависимости проекта:
 
 На Windows:
-' python -m venv venv '
-' .\venv\Scripts\activate '
+` python -m venv venv `
+` .\venv\Scripts\activate `
 
 На macOS/Linux:
-' python3 -m venv venv '
-' source venv/bin/activate '
+` python3 -m venv venv `
+` source venv/bin/activate `
 
 # Шаг 3: Установка зависимостей
 Установите необходимые библиотеки, указанные в файле requirements.txt:
-' pip install -r requirements.txt '
+` pip install -r requirements.txt `
 
 
 # Шаг 4: Запуск скрипта
-' python motion_detection.py '
+` python motion_detection.py `
 
 По умолчанию скрипт будет использовать тестовые видео, которые находятся в папке /videos. При желании добавьте в эту папку свои видео и измените путь в следущей строке:
-' video_capture = cv2.VideoCapture('Video_path')  # путь к видеофайлу '
+` video_capture = cv2.VideoCapture('Video_path')  # путь к видеофайлу `
