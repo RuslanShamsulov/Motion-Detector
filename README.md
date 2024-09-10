@@ -40,4 +40,9 @@ NumPy — библиотека для работы с многомерными �
 ` video_capture = cv2.VideoCapture('Video_path')  # путь к видеофайлу `
 
 # Шаг 5: Пример работы
-![Uploading Frame with Contours 2024-09-10 15-07-49.gif…]()
+![Frame with Contours 2024-09-10 15-08-33](https://github.com/user-attachments/assets/1174f291-9ac2-4829-95cc-a84b5012ba9b)
+![Frame with Contours 2024-09-10 15-08-57](https://github.com/user-attachments/assets/5d4b4651-2390-4dfd-b5cd-f8088d7b4395)
+![Frame with Contours 2024-09-10 15-07-49](https://github.com/user-attachments/assets/b06d1ca2-c4ae-41db-acff-420416a4cf89)
+
+
+
